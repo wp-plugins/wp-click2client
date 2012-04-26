@@ -20,10 +20,10 @@ Enter your Twilio Account information
 5. Adding Click2Client button:
 First, create a Twilio App at https://www.twilio.com/user/account/apps and copy its Application Sid (34 characters, starts with "AP")
 Drop this code snippet below anywhere you want a click to client button, then replace ApplicationSid with the Application Sid that you want the button to call
-	<?php wp_c2client("ApplicationSid"); ?>
+	&lt;?php wp_c2client("ApplicationSid"); ?&gt;
 
 You may optionally change the title of the button by entering a second variable.  For example:
-	<?php wp_c2client("ApplicationSid", "Call Now!!!1"); ?>
+	&lt;?php wp_c2client("ApplicationSid", "Call Now!!!1"); ?&gt;
 
 Thats it!
 
