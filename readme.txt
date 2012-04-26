@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: Alex Swan, minddog
+Contributors: boldbigflank, minddog
 Tags: twilio, click2client, phone, voice
 Requires at least: 2.8.0
 Tested up to: 3.3.2
